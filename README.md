@@ -1,8 +1,8 @@
 # QA-Launchpad
 QA Launchpad  9 weeks of web automation challenge series 🎉
 
---------------------------------------------------------------------
-# Week1 - Task 1
+-------------------------------------------------------------------------------------------------------------------------
+# Week 1 - Task 1
 Programming Basics for Testers – Task Breakdown
 
 Step 1: Choosen Language
@@ -56,7 +56,8 @@ Step 4: Functions & Debugging
 5. Make sure the folder is accessible.
 
 Submission Deadline: Saturday,  11/09/2025
-----------------------------------------------------------------------------------------------------------------
 
 Note:
 For this Task uploading to GitHub or GitLab is optional but recommended if you can, because we will have a week task for using GitHub seperately
+
+---------------------------------------------------------------------------------------------------------------------------------------------
