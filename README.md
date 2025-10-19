@@ -61,3 +61,92 @@ Note:
 For this Task uploading to GitHub or GitLab is optional but recommended if you can, because we will have a week task for using GitHub seperately
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
+
+# WEEK 2 TASK: Setting Up & Running Your First Automation Test
+Resources 
+Official Cypress documentation; Tutorials on Cypress learn will be very helpful (https://docs.cypress.io/app/get-started/why-cypress)
+Cypress YouTube tutorial 3 to 10 (https://www.youtube.com/playlist?list=PLL34mf651faP_cOOErNUi33GeRHhr2QsP)
+
+Playwright official documentation has different programming language of choice (https://playwright.dev/)
+
+Playwright JS YouTube Tutorial  1to 6 (https://www.youtube.com/watch?v=--aXd2b3D5I&list=PLUDwpEzHYYLsw33jpra65LIvX1nKWpp7-)
+Playwright with Python (https://www.youtube.com/watch?v=y8zY14HHiPI&list=PLP5_A7hnY1Tggph0F0cRqf5iyyZuIBXYC)
+
+
+TASK BREAKDOWN
+🧠 Part 1: Environment Setup
+
+Objective: Install your chosen test automation tool and confirm it’s working.
+
+Steps:
+
+Choose and install your preferred tool (Cypress / Playwright).
+
+Ensure Node.js and npm are installed. or any other dependencies depending on your choice
+
+Verify that your tool opens successfully.
+
+
+🚀 Part 2: Run “Hello World” Automation
+
+Objective: Verify your setup by running your first automation test.
+
+Task:
+
+Create a simple test that opens a browser and visits Google.
+
+Run the test and confirm it passes successfully.
+
+
+🔍 Part 3: Learn and Practice Locators
+
+Objective: Understand and use different types of web locators to find elements.
+
+Concepts to learn:
+
+CSS selectors
+
+XPath
+
+ID locators
+
+Class locators
+
+Task:
+
+Open a sample web app (such as a practice login page).
+
+Locate elements like username, password, and login button using different locator types.
+
+Print confirmation or display feedback that each element was found successfully.
+
+
+📩 SUBMISSION GUIDELINES
+
+🕕 Deadline:
+
+Submission opens: Sunday, 6:00 PM (WAT)
+
+Closes: Monday, 6:00 PM (WAT)
+
+📤 Submission Link:
+
+Use the weekly Google Form shared in the group.
+
+📁 What to Submit:
+
+Google Drive link containing all test results, screenshots, and code files.
+
+Make sure the Drive folder is publicly accessible (anyone with the link can view).
+
+Name your folder clearly, e.g.,
+FatimahHamzah_Week2Task_Cypress
+
+OR GitHub repository link (if you prefer):
+
+Repository should be public.
+
+Include your code files, screenshots, and a short README.md explaining what you did.
+
+---------------------------------------------------------------
+
