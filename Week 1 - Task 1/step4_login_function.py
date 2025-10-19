@@ -13,3 +13,4 @@ def validate_login(username, password):
 # Test the function
 print(validate_login("tester", "pass1234"))
 print(validate_login("qw", "12"))
+print(validate_login("", "12"))
