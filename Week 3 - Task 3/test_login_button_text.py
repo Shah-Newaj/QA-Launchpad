@@ -1,6 +1,5 @@
 from playwright.sync_api import Page, expect
 
-
 # Example 2 – Text Content Validation
 
 def test_login_button_text(playwright):
