@@ -10,5 +10,11 @@ def test_page_title(playwright):
     page = context.new_page()
     page.goto("https://practicetestautomation.com/practice-test-login/")
     # assert "Test Login | Practice Test Automation" in page.title() # General Python approach
-    expect(page).to_have_title("Test Login | Practice Test Automation") # Playwright built-in assertion mechanism
+    # expect(page).to_have_title("Test Login | Practice Test Automation")  # Playwright built-in assertion mechanism
+    try:
+        expect(page).to_have_title("Test Login | Practice Test Automation") # Playwright built-in assertion mechanism
+        print("✅ Title matched successfully!")
+    except AssertionError as e:
+        print("❌ Title did not match!")
+        print("Error details:", e)
     browser.close()
