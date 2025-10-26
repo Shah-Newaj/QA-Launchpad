@@ -2,6 +2,6 @@
 | ----- | ----------------------------------------------- | ------------------------------------------- | -----------------------------------------------------   |
 | TC001 | Verify page title of login page                 | 1. Launch browser  2. Go to login page      | Title should be “Test Login | Practice Test Automation” |
 | TC002 | Validate text content of login button           | 1. Launch page  2. Inspect login button     | Button text should be “Submit”                          |
-| TC003 | Verify login button state when fields are empty | 1. Do not enter credentials 2. Check button | Button should be disabled                               |
+| TC003 | Verify login button state when fields are empty | 1. Do not enter credentials 2. Check button | Button should be enabled                               |
 | TC004 | Verify file upload functionality                | 1. Open file upload page 2. Upload a file   | File should upload successfully and show confirmation   |
 | TC005 | Validate success message after login            | 1. Enter valid credentials 2. Click login   | Success message should appear                           |
