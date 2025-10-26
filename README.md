@@ -150,3 +150,81 @@ Include your code files, screenshots, and a short README.md explaining what you 
 
 ---------------------------------------------------------------
 
+# WEEK 3 TASK BREAKDOWN
+
+Resources 
+Official Cypress documentation; Tutorials on Cypress learn will be very helpful (https://docs.cypress.io/app/get-started/why-cypress)
+Cypress YouTube tutorial 3 to 10 (https://www.youtube.com/playlist?list=PLL34mf651faP_cOOErNUi33GeRHhr2QsP)
+
+Playwright official documentation has different programming language of choice (https://playwright.dev/)
+
+Playwright JS YouTube Tutorial  1to 6 (https://www.youtube.com/watch?v=--aXd2b3D5I&list=PLUDwpEzHYYLsw33jpra65LIvX1nKWpp7-)
+Playwright with Python (https://www.youtube.com/watch?v=y8zY14HHiPI&list=PLP5_A7hnY1Tggph0F0cRqf5iyyZuIBXYC)
+
+Topic:
+
+Assertions & Validations
+
+Tools:
+
+Cypress / Playwright
+
+Main Objectives
+
+Learn what assertions and validations are in test automation.
+
+Understand how to use assertions to verify:
+
+Page title
+
+Text content
+
+Button state (enabled/disabled)
+
+File upload functionality
+
+Write 3–5 manual test cases.
+
+Automate the same test cases using Cypress or Playwright.
+
+Task Steps
+Part 1 – Learning
+
+Study how assertions and validations work.
+
+Review built-in assertion commands or methods in your chosen tool.
+
+Understand the difference between implicit and explicit assertions.
+
+Part 2 – Manual Test Cases
+
+Identify 3–5 scenarios to test (e.g., login, file upload, form validation).
+
+Document them clearly with test steps and expected results.
+
+Part 3 – Automation
+
+Implement automation scripts for each manual test case.
+
+Use assertions to validate expected behavior.
+
+Include at least one scenario involving file upload.
+
+Part 4 – Submission
+
+Submit:
+
+Your manual test cases document.
+
+Your automated test scripts (via GitHub link or zipped folder).
+
+Expected Deliverables
+
+✅ Manual test case document (3–5 test cases).
+
+✅ Automated scripts with assertions and validations.
+
+✅ Demonstration of file upload automation. 
+
+-----------------------------------------------------------
+
